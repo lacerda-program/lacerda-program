@@ -27,16 +27,13 @@ Desenvolvedor na **Dupply** e atuante em projetos de sistemas para a **Igreja Ba
 * **Bacharelado em Sistemas de Informação:** UNEX Vitória da Conquista - BA (Início 2026).
 * **Web Development:** Certificações Nível Intermediário (JS, React, Git).
 * **Inteligência Artificial:** Certificação técnica aplicada.
+* Cursos Nível Basico e intermediario Com Cetificação em JavaScript, HTML5, CSS, Git, GitHub Desktop, Github, React.js...
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lacerda-program&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerda-program&layout=compact&theme=dark&hide_border=true" height="150" alt="languages card" />
-</p>
-
+### Repositórios Feitos
+* [Site em Desenvolvimento para empresa Dupply.](https://www.dupply.com.br/)
+* [Formulario De Inscrição Para Banda Three Days Grace.](https://lacerda-program.github.io/prova_html/)  
+* [Formulario De Inscrição Academia GymFit.](https://lacerda-program.github.io/GymFit_Cadastro/)
 ---
 
 ### 📫 Contato
