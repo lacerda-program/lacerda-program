@@ -26,8 +26,8 @@ Desenvolvedor na **Dupply** e atuante em projetos de sistemas para a **Igreja Ba
 
 * **Bacharelado em Sistemas de Informação:** UNEX Vitória da Conquista - BA (Início 2026).
 * **Web Development:** Certificações Nível Intermediário (JS, React, Git).
-* **Inteligência Artificial:** Certificação técnica aplicada.
-* Cursos Nível Basico e intermediario Com Cetificação em JavaScript, HTML5, CSS, Git, GitHub Desktop, Github, React.js...
+* **Inteligência Artificial:** Certificação técnica aplicada basico.
+* Cursos Nível Basico e intermediario Com Cetificação em JavaScript, HTML5, CSS, Git, GitHub Desktop, Github, React.js, Node.js, IA, Engenharia de prompt, algoritimo e logica de programação, etc...
 
 ---
 ### Repositórios Feitos
