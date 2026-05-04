@@ -1,138 +1,91 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=3&section=header" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,60:0f0f0f,100:141414&height=280&section=header&text=Samuel%20Lacerda&fontSize=72&fontColor=e8e2d9&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%94%20Junior&descAlignY=68&descSize=16&descColor=4a4a4a" width="100%"/>
+<br/>
+Mostrar Imagem
+<br/>
+Mostrar Imagem  
+Mostrar Imagem  
+Mostrar Imagem  
+Mostrar Imagem
+<br/>
+Mostrar Imagem
+</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samuel%20Lacerda&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
+<table width="100%"><tr><td>
+01 ─────────────────────────── ABOUT ME
+</td></tr></table>
+<br/>
+A developer passionate about building things that actually work — not just code that compiles, but systems that solve real problems.
+Currently studying Information Systems (1st/8 semesters), I build complete web applications focused on clean, efficient, and scalable code. I believe great technology and great design always go hand in hand.
+
+"I turn complexity into simplicity."
 
 <br/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lacerda+%F0%9F%91%8B;Full+Stack+Developer+%7C+Junior;Building+things+for+the+web+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%93%9A)](https://git.io/typing-svg)
-
+<table width="100%"><tr><td>
+02 ─────────────────────────── TECH STACK
+</td></tr></table>
+<br/>
+<div align="center">
+Languages
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+<br/>
+Frameworks & Libraries
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+<br/>
+Databases & DevOps
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+</div>
 <br/>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--lacerda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-lacerda)
-[![Instagram](https://img.shields.io/badge/Instagram-sam_.lacerda-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sam_.lacerda)
-[![Gmail](https://img.shields.io/badge/Gmail-samuellacerda1018-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuellacerda1018@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-lacerda--program-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lacerda-program)
-
+<table width="100%"><tr><td>
+03 ─────────────────────────── GITHUB STATS
+</td></tr></table>
+<br/>
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lacerda-program&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=c8a97e&icon_color=c8a97e&text_color=6b6b6b&ring_color=c8a97e"/>
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerda-program&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c8a97e&text_color=6b6b6b"/>
+<br/><br/>
+Mostrar Imagem
+</div>
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lacerda-program&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<table width="100%"><tr><td>
+04 ─────────────────────────── CURRENTLY
+</td></tr></table>
+<br/>
+text◈  Working on      Personal full stack projects
+◈  Learning        React advanced patterns & Spring Boot
+◈  Ask me about    JavaScript, Java, Web Development
+◈  Open to         Collaborations & new opportunities
+<br/>
 
+<table width="100%"><tr><td>
+05 ─────────────────────────── CONTACT
+</td></tr></table>
+<br/>
+<div align="center">
+Emailsamuellacerda1018@gmail.comLinkedInlinkedin.com/in/samuel-lacerdaGitHubgithub.com/lacerda-programInstagram@sam_.lacerda
 </div>
-
----
-
-## 🇧🇷 Sobre mim &nbsp;|&nbsp; 🇺🇸 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### 🇧🇷 Português
-
-Olá! Sou **Samuel Lacerda**, desenvolvedor **Full Stack Júnior** apaixonado por tecnologia e criação de soluções digitais. Atualmente construindo minha carreira desenvolvendo aplicações web completas, do frontend ao backend.
-
-- 🎓 Cursando **Sistemas de Informação** — 1º/8 semestres
-- 🌱 Sempre aprendendo e evoluindo
-- 💡 Transformando ideias em código
-- 🎯 Focado em escrever código limpo e eficiente
-- 🤝 Aberto a colaborações e oportunidades
-
-</td>
-<td width="50%">
-
-### 🇺🇸 English
-
-Hi there! I'm **Samuel Lacerda**, a **Junior Full Stack Developer** passionate about technology and building digital solutions. Currently growing my career by developing complete web applications, from frontend to backend.
-
-- 🎓 Studying **Information Systems** — 1st/8 semesters
-- 🌱 Always learning and evolving
-- 💡 Turning ideas into code
-- 🎯 Focused on writing clean and efficient code
-- 🤝 Open to collaborations and opportunities
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lacerda-program&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerda-program&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lacerda-program&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 Currently
-
-```text
-🔭  Working on     Personal full stack projects
-🌱  Learning       React advanced patterns & Spring Boot
-💬  Ask me about   JavaScript, Java, Web Development
-📫  Reach me at    samuellacerda1018@gmail.com
-⚡  Fun fact        I love turning complex problems into simple solutions
-```
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | [samuellacerda1018@gmail.com](mailto:samuellacerda1018@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/samuel-lacerda](https://linkedin.com/in/samuel-lacerda) |
-| 📸 Instagram | [@sam_.lacerda](https://instagram.com/sam_.lacerda) |
-| 💻 GitHub | [github.com/lacerda-program](https://github.com/lacerda-program) |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-**⭐ Se algum projeto te ajudou, deixa uma estrela! | If any project helped you, drop a star! ⭐**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=3&section=footer" width="100%"/>
+<br/>
+— Samuel Lacerda · 2025 —
+</div
