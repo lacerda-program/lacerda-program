@@ -10,7 +10,7 @@
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--lacerda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-lacerda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--lacerda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-lacerda-8110bb3b4/)
 [![Instagram](https://img.shields.io/badge/Instagram-sam_.lacerda-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sam_.lacerda)
 [![Gmail](https://img.shields.io/badge/Gmail-samuellacerda1018-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuellacerda1018@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-lacerda--program-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lacerda-program)
