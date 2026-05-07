@@ -4,12 +4,10 @@
 
 <br/>
 
-<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+LacerdaFull+Stack+Developer;Junior;Building+things+for+the+web;Always+learning+something+new;)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--lacerda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-lacerda-8110bb3b4/)
 [![Instagram](https://img.shields.io/badge/Instagram-sam_.lacerda-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sam_.lacerda)
 [![Gmail](https://img.shields.io/badge/Gmail-samuellacerda1018-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuellacerda1018@gmail.com)
@@ -23,34 +21,34 @@
 
 ---
 
-## 🇧🇷 Sobre mim &nbsp;|&nbsp; 🇺🇸 About Me
+## About Me
 
 <table>
 <tr>
 <td width="50%">
 
-### 🇧🇷 Português
+### Português
 
 Olá! Sou **Samuel Lacerda**, desenvolvedor **Full Stack Júnior** apaixonado por tecnologia e criação de soluções digitais. Atualmente construindo minha carreira desenvolvendo aplicações web completas, do frontend ao backend.
 
-- 🎓 Cursando **Sistemas de Informação** — 1º/8 semestres
-- 🌱 Sempre aprendendo e evoluindo
-- 💡 Transformando ideias em código
-- 🎯 Focado em escrever código limpo e eficiente
-- 🤝 Aberto a colaborações e oportunidades
+- Cursando **Sistemas de Informação** — 1º/8 semestres
+- Sempre aprendendo e evoluindo
+- Transformando ideias em código
+- Focado em escrever código limpo e eficiente
+- Aberto a colaborações e oportunidades
 
 </td>
 <td width="50%">
 
-### 🇺🇸 English
+### English
 
 Hi there! I'm **Samuel Lacerda**, a **Junior Full Stack Developer** passionate about technology and building digital solutions. Currently growing my career by developing complete web applications, from frontend to backend.
 
-- 🎓 Studying **Information Systems** — 1st/8 semesters
-- 🌱 Always learning and evolving
-- 💡 Turning ideas into code
-- 🎯 Focused on writing clean and efficient code
-- 🤝 Open to collaborations and opportunities
+- Studying **Information Systems** — 1st/8 semesters
+- Always learning and evolving
+- Turning ideas into code
+- Focused on writing clean and efficient code
+- Open to collaborations and opportunities
 
 </td>
 </tr>
@@ -58,9 +56,9 @@ Hi there! I'm **Samuel Lacerda**, a **Junior Full Stack Developer** passionate a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -69,24 +67,22 @@ Hi there! I'm **Samuel Lacerda**, a **Junior Full Stack Developer** passionate a
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-### 🔧 Tools & DevOps
+### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -103,28 +99,22 @@ Hi there! I'm **Samuel Lacerda**, a **Junior Full Stack Developer** passionate a
 
 ---
 
-## 🎯 Currently
+## Beyond the Code
 
-```text
-🔭  Working on     Personal full stack projects
-🌱  Learning       React advanced patterns & Spring Boot
-💬  Ask me about   JavaScript, Java, Web Development
-📫  Reach me at    samuellacerda1018@gmail.com
-⚡  Fun fact        I love turning complex problems into simple solutions
-```
+When I'm not writing code, you'll probably find me at the gym, out on the tennis or basketball court, or taking the motorcycle for a ride. I unwind with video games and series, and I'm always fitting in study time somewhere in between — whether it's for college or something new I picked up on my own.
 
 ---
 
-## 📫 Contact
+## Contact
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | [samuellacerda1018@gmail.com](mailto:samuellacerda1018@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/samuel-lacerda](https://linkedin.com/in/samuel-lacerda) |
-| 📸 Instagram | [@sam_.lacerda](https://instagram.com/sam_.lacerda) |
-| 💻 GitHub | [github.com/lacerda-program](https://github.com/lacerda-program) |
+| Platform  | Link |
+|-----------|------|
+| Email     | [samuellacerda1018@gmail.com](mailto:samuellacerda1018@gmail.com) |
+| LinkedIn  | [linkedin.com/in/samuel-lacerda-8110bb3b4](https://www.linkedin.com/in/samuel-lacerda-8110bb3b4/) |
+| Instagram | [@sam_.lacerda](https://instagram.com/sam_.lacerda) |
+| GitHub    | [github.com/lacerda-program](https://github.com/lacerda-program) |
 
 </div>
 
@@ -134,6 +124,6 @@ Hi there! I'm **Samuel Lacerda**, a **Junior Full Stack Developer** passionate a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-**⭐ Se algum projeto te ajudou, deixa uma estrela! | If any project helped you, drop a star! ⭐**
+**If any project helped you, drop a star — it means a lot.**
 
 </div>
